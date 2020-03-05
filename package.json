@@ -1,0 +1,19 @@
+{
+  "name": "up_sample",
+  "version": "1.0.0",
+  "description": "A test to use Apex up sample with lamda",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ark4n631/up_sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ark4n631/up_sample/issues"
+  },
+  "homepage": "https://github.com/ark4n631/up_sample#readme"
+}
