@@ -1,0 +1,5 @@
+{
+  "name": "hello-lamda-api",
+  "profile": "zero-collateral",
+  "regions": ["us-west-1"]
+}
